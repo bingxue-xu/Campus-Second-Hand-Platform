@@ -1,6 +1,8 @@
-Concept: CampusCircula is a Platform designed for university campuses to facilitate the buying, selling, and exchanging of second-hand goods exclusively within the campus community. The platform aims to create a sustainable, economical, and convenient ecosystem for international students and staff to circulate goods, saving time and money,  reducing waste and promoting a greener campus environment.
+### Campus Circula
 
-Problem / Need (issue):
+**Concept:** CampusCircula is a Platform designed for university campuses to facilitate the buying, selling, and exchanging of second-hand goods exclusively within the campus community. The platform aims to create a sustainable, economical, and convenient ecosystem for international students and staff to circulate goods, saving time and money,  reducing waste and promoting a greener campus environment.
+
+**Problem / Need (issue):**
 
 International students need to buy a lot of stuff when moving to a new country, and sell them while leaving, the problems are:
 1.	Limited budget, need to acquire second-hand goods
@@ -10,7 +12,7 @@ International students need to buy a lot of stuff when moving to a new country, 
 5.	WhatsApp group or WeChat group, inefficient, time consuming to track the msgs for status, need to communicate one to one
 6.	Difficulty to deliver larger items, express fee is expensive
 
-Key Features:
+**Key Features:**
 
 User Verification: Users must register using their university email addresses (explore the possibility link to Mecenat), ensuring the community is exclusive to students and staff. –--safe and reliable.
 Product Listings: Users can list items for sale or exchange, including textbooks, electronics, clothing, furniture, and more. Even use this platform to find course partners, or share express fee
